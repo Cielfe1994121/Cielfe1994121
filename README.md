@@ -1,8 +1,2 @@
-# Hi, I'm Cielfe
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cielfe1994121&layout=compact&theme=vision-pro&hide=processing)
 
-### 📊 Most Used Languages
-![Languages](https://github-language-stats.vercel.app/api/top-langs?username=Cielfe1994121&theme=vision-pro&layout=compact)
----
-### 🛠 Development Status
-- **Main Focus**: Python / Music & Math Visualization
-- **Ongoing**: `music_one_f`, `digital-dailylife`
