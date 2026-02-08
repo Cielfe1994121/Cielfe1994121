@@ -1,7 +1,7 @@
 # Hi, I'm Cielfe
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cielfe1994121&layout=compact&theme=vision-pro&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cielfe1994121&layout=compact&theme=vision-pro&hide_border=true" />
 ---
 ### 🛠 Development Status
 - **Main Focus**: Python / Music & Math Visualization
