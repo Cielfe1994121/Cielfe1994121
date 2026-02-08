@@ -1,7 +1,7 @@
 # Hi, I'm Cielfe
 
 ### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cielfe1994121&layout=compact&theme=vision-pro&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cielfe1994121&layout=compact&theme=vision-pro&hide_border=true)](https://github.com/Cielfe1994121?tab=repositories)
 
 ---
 ### 🛠 Development Status
